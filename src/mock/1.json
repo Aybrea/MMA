@@ -1,0 +1,62 @@
+{
+  "id": "root",
+  "level": 0,
+  "description": "个人成长与自我提升的整体规划",
+  "name": "个人成长与自我提升",
+  "notes": "核心主题，涵盖个人成长的各个方面",
+  "children": [
+    {
+      "children": [
+        {
+          "description": "评估自身的强项和需要改进的地方",
+          "id": "strengths_weaknesses",
+          "level": 2,
+          "name": "优势与不足分析",
+          "notes": "帮助明确个人发展方向"
+        },
+        {
+          "description": "识别自己重视的价值观和感兴趣的领域",
+          "id": "values_interests",
+          "level": 2,
+          "name": "个人价值观与兴趣爱好",
+          "notes": "有助于选择适合的职业和生活方式"
+        }
+      ],
+      "description": "了解自身的优势、劣势、价值观和兴趣爱好",
+      "id": "self_awareness",
+      "level": 1,
+      "name": "自我认知",
+      "notes": "自我认知是个人成长的基础"
+    },
+    {
+      "children": [
+        {
+          "description": "如每日或每周的具体任务",
+          "id": "short_term_goals",
+          "level": 2,
+          "name": "短期目标",
+          "notes": "确保日常行动与长期目标一致"
+        },
+        {
+          "description": "如季度或半年内希望达成的成就",
+          "id": "medium_term_goals",
+          "level": 2,
+          "name": "中期目标",
+          "notes": "有助于评估进展并进行调整"
+        },
+        {
+          "description": "如年度规划或人生目标",
+          "id": "long_term_goals",
+          "level": 2,
+          "name": "长期目标",
+          "notes": "提供长期方向和动力"
+        }
+      ],
+      "description": "制定清晰的短期和长期目标",
+      "id": "goal_setting",
+      "level": 1,
+      "name": "目标设定",
+      "notes": "目标设定是实现个人成长的关键"
+    }
+  ]
+}
